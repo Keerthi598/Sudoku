@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<level width="30" height="20" tilewidth="48" tileheight="48">
+    <declarations>
+        <sparty id="i599" width="96" height="96" front="2" head-pivot-angle="0.8" head-pivot-x="30" head-pivot-y="86" image1="sparty-1.png" image2="sparty-2.png" mouth-pivot-angle="1" mouth-pivot-x="39" mouth-pivot-y="86" target-x="72" target-y="24" />
+        <background id="i600" width="960" height="720" image="background.png" />
+        <xray id="i601" width="144" height="144" image="xray.png" capacity="7" />
+        <vault id="i168" width="400" height="400" image="vault.png" front="vault-front.png" leverImage="lever.png" leverWid="150" leverHgt="75" bulbImage="yellow.png" bulbWid="60" bulbHgt="60" />
+    </declarations>
+    <game col="5" row="1">5 2 6 7 0 3 4 1 8 3 4 0 2 8 1 5 7 6 8 1 7 5 4 6 0 3 2 2 0 3 4 1 7 8 6 5 4 5 8 6 3 0 7 2 1 7 6 1 8 5 2 3 0 4 1 7 4 3 6 5 2 8 0 6 3 5 0 2 8 1 4 7 0 8 2 1 7 4 6 5 3</game>
+    <items>
+        <background id="i600" col="0.0" row="14.0" />
+        <xray id="i601" col="0.6042" row="14.0" />
+        <vault id="i168" col="15.0" row="10.0"/>
+    </items>
+</level>

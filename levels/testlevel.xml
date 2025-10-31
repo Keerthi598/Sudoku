@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<level width="20" height="15" tilewidth="48" tileheight="48">
+    <declarations>
+        <given id="i373" width="48" height="48" image="6b.png" value="6" />
+        <sparty id="i599" width="96" height="96" front="2" head-pivot-angle="0.8" head-pivot-x="30" head-pivot-y="86" image1="sparty-1.png" image2="sparty-2.png" mouth-pivot-angle="1" mouth-pivot-x="39" mouth-pivot-y="86" target-x="72" target-y="24" />
+        <xray id="i601" width="144" height="144" image="xray.png" capacity="7" />
+
+    </declarations>
+
+    <game col="6" row = "3">
+        2 4
+    </game>
+
+    <items>
+        <given id="i373" col="11" row="3" />
+        <sparty id="i599" col="1.4167" row="10.8333" />
+        <xray id="i601" col="0.6042" row="14.0" />
+    </items>
+
+</level>

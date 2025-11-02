@@ -8,6 +8,14 @@ A feature-rich Sudoku game implemented in C++ with wxWidgets, designed as part o
 	-   Limited number storage and timer-based challenges
 	-   Solve button if stuck on a level for too long
 ---
+
+![Sudoku DemoA](DemoGifs/Moving.gif)
+
+![Sudoku DemoB](DemoGifs/ManSolve.gif)
+
+![Sudoku DemoC](DemoGifs/AutoSolve.gif)
+
+
 ### Tech Stack
 - C++
 - wxWidgets
